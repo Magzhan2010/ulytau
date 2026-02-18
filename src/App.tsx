@@ -1,7 +1,8 @@
-import Benefit from "./components/benefit";
+import Benefit from "./components/benefite";
 import CityExplorer from "./components/CityExplorer";
 import Geography from "./components/Geology";
 import Hero from "./components/hero";
+
 import IndustrialTimeline from "./components/IndustrialTimeline";
 import SacredPlaces from "./components/SacredPlaces";
 import Stats from "./components/stats";
